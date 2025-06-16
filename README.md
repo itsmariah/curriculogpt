@@ -4,7 +4,7 @@ CurriculoGPT é um aplicativo SaaS construído com [Streamlit](https://streamlit
 
 ## 🚀 Demonstração
 
-Acesse o app online: [LINK_DO_STREAMLIT_AQUI](https://streamlit.io/)
+Acesse o app online: [STREAMLIT](https://streamlit.io/)
 
 ## 🧠 Funcionalidades
 
